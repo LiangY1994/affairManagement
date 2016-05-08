@@ -5,16 +5,16 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Affair Management</title>
+	<title>Log In</title>
 	<link rel="stylesheet" type="text/css" href="css/main.css" />
 </head>
 <body>
 	<img id="banner" src="images/banner.jpg" />
 	<div id="banner2">Affair Management Web Site</div>
 	<ul id="navi">
-		<li><a href="logIn.jsp">Log_In</a></li>
+		<li><a href="">Log_In</a></li>
 		<li><a href="newMessage.jsp">New_Message</a></li>
-		<li><a href="messages.jsp">Messages</a></li>
+		<li><a href="messages">Messages</a></li>
 		<li><a href="index.jsp">Home</a></li>
 	</ul>
 	<img src="images/partition.gif" />

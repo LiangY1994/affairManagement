@@ -1,0 +1,24 @@
+@import url("navigation.css");
+@import url("banner.css");
+@import url("info.css");
+@import url("login.css");
+
+*{
+	padding: 0px;
+	margin: 5px;
+}
+div.blank{
+	margin: 10px;
+}
+img{
+	min-width: 100%;
+}
+div#footer{
+	text-align: center;
+	bottom: 0px;
+	font-size: 70%;
+	clear: both;
+}
+ul{
+	list-style-type: none;
+}

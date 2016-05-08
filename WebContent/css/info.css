@@ -1,1 +1,16 @@
-a
+div#employee{
+	border: 1px solid;
+	margin: 1em 0em 2em 0.5em;
+	width: 20em;
+	height: 30em;
+	float: left;
+}
+div#message{
+	border: 1px solid;
+	margin-top: 1em;
+	margin-bottom: 2em;
+	margin-left: 2.5em;
+	width: 40em;
+	height: 30em;
+	float: left;
+}

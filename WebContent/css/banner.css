@@ -1,0 +1,10 @@
+img#banner{
+	height: 10em;
+}
+div#banner2{
+	position: absolute;
+	top: 3em;
+	left: 8em;
+	color: white;
+	font-size: 25px;
+}

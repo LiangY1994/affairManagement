@@ -1,0 +1,15 @@
+li a{
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	background-color: #2c9683;
+	margin: 0px;
+}
+li a:hover{
+	background-color: rgb(192, 215, 238);
+}
+ul#navi li{
+	float: right;
+	margin: 2px;
+	border: 1px solid;
+}

@@ -12,19 +12,3 @@ create table tb_message(
 	messageContent varchar(100) not null,
 	employee.employeeID not null
 );
-
-create table tb_reply(
-	replyID int not null primary key,
-	replyDate date not null,
-	replyContent varchar(50) not null,
-	employee.employeeID not null,
-	message.messageID not null
-);
-
-create table tb_critism(
-	critismID int not null primary key,
-	critismDate date not null,
-	critismContent varchar(50) not null,
-	employee.employeeID not null,
-	message.messageID not null
-);
